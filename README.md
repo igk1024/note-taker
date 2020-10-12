@@ -29,7 +29,7 @@ WHEN I click on the Write icon in the navigation at the top of the page<br />
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column<br />
 
 ## Deployed URL
-<a href="https://igk1024.github.io/note-taker/">Note Taker Application</a>
+Deployed to Heroku: <a href="https://protected-shore-80289.herokuapp.com/">Note Taker Application</a>
 
 ## GitHub Repository Link
 <a href="https://github.com/igk1024/note-taker">Note Take GitHub Repository</a>
